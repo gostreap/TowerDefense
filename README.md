@@ -22,3 +22,7 @@ Finally to clean the compiled files :
 ```
 $ make fclean
 ```
+
+# Pictures
+![menu-screenshot](menu.png)
+
